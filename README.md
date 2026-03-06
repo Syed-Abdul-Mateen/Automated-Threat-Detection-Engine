@@ -57,8 +57,8 @@ The tool is designed for educational purposes, penetration testing labs, or as a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cybersecurity-dashboard.git
-   cd cybersecurity-dashboard
+   git clone [https://github.com/yourusername/cybersecurity-dashboard](https://github.com/Syed-Abdul-Mateen/Automated-Threat-Detection-Engine).git
+   cd Automated-Threat-Detection-Engine
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
